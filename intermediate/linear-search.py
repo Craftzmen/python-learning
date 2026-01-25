@@ -1,5 +1,4 @@
 
-# create a function
 def linearSearch(lst, target) -> int:
     try:
         if not isinstance(lst, list):
@@ -16,14 +15,10 @@ def linearSearch(lst, target) -> int:
         print(f"Error: {e}")
         return -1
 
-
-# create a list
 lst = [11, 22, 33, 44, 55, 66, 77, 88, 99]
 
-# create a target number
 target = 55
 
-# call the function to check
 try:
     result = linearSearch(lst, target)
 
