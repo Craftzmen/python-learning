@@ -2,13 +2,13 @@
 
 A comprehensive Python learning resource designed to take you from beginner to intermediate level. This repository contains structured lessons, examples, and exercises to help anyone learn Python programming effectively.
 
-## 🎯 About This Repository
+## About This Repository
 
 This repository is organized into progressive modules that build upon each other, making it easy for beginners to start their Python journey and for intermediate learners to strengthen their skills.
 
-## 📚 Learning Modules
+## Learning Modules
 
-### 🔰 Basics
+### Basics
 **Perfect for beginners with no programming experience**
 
 Learn the fundamental building blocks of Python:
@@ -20,7 +20,7 @@ Learn the fundamental building blocks of Python:
 - Basic input/output operations
 - Error handling and debugging
 
-### 📁 File Handling
+### File Handling
 **Master data persistence and file operations**
 
 Understand how to work with files and external data:
@@ -31,7 +31,7 @@ Understand how to work with files and external data:
 - Data serialization and deserialization
 - Working with different file formats
 
-### 🔧 Intermediate
+### Intermediate
 **Take your Python skills to the next level**
 
 Explore advanced concepts and real-world applications:
@@ -46,7 +46,7 @@ Explore advanced concepts and real-world applications:
 - Regular expressions
 - Virtual environments and package management
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.7+ installed on your system
@@ -74,7 +74,7 @@ Explore advanced concepts and real-world applications:
    python your_first_script.py
    ```
 
-## 📖 How to Use This Repository
+## How to Use This Repository
 
 ### For Complete Beginners
 1. Start with the `basics/` folder
@@ -96,7 +96,7 @@ Explore advanced concepts and real-world applications:
 - **Build projects:** Apply what you learn to real-world problems
 - **Debug actively:** Learn to read and understand error messages
 
-## 🏃‍♂️ Quick Start Examples
+## Quick Start Examples
 
 ### Hello World
 ```python
@@ -122,7 +122,7 @@ with open('example.txt', 'r') as file:
     print(content)
 ```
 
-## 📋 Progress Tracking
+## Progress Tracking
 
 Create a learning journal to track your progress:
 
@@ -133,14 +133,14 @@ Create a learning journal to track your progress:
 - [ ] Worked with external APIs
 - [ ] Built a complete application
 
-## 🔗 Additional Resources
+## Additional Resources
 
 - [Official Python Documentation](https://docs.python.org/3/)
 - [Python Package Index (PyPI)](https://pypi.org/)
 - [Real Python](https://realpython.com/)
 - [Python.org Beginner's Guide](https://www.python.org/about/gettingstarted/)
 
-## 🤝 Contributing
+## Contributing
 
 Found an error or want to add more examples? Contributions are welcome!
 
@@ -150,11 +150,11 @@ Found an error or want to add more examples? Contributions are welcome!
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🎉 Happy Learning!
+## Happy Learning!
 
 Remember, learning to code is a journey, not a destination. Take your time, practice consistently, and don't be afraid to make mistakes. Every expert was once a beginner!
 
